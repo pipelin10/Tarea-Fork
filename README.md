@@ -13,3 +13,12 @@ Carlos Felipe Montoya 201535038
 **¿Qué diferencia en tiempo observa en las dos versiones? ¿Se puede afirmar que también un programa intensivo en I/O toma la mitad del tiempo si se divide la ejecución en dos procesos?**  
 R/ Para el caso de io y iofork con la carpeta "bin" de Linux tomamos un tiempo de 194 y 123 respectivamente.  
 Observamos que no toma la mitad de tiempo pero si mejora en tiempo de ejecución cuándo utilizamos la función fork.  
+## URLs raw
+https://cdn.rawgit.com/pipelin10/Tarea-Fork/4902d34b/Makefile  
+https://cdn.rawgit.com/pipelin10/Tarea-Fork/4902d34b/fileutil.c  
+https://cdn.rawgit.com/pipelin10/Tarea-Fork/4902d34b/fileutil.h  
+https://cdn.rawgit.com/pipelin10/Tarea-Fork/4902d34b/io.c  
+https://cdn.rawgit.com/pipelin10/Tarea-Fork/4902d34b/iofork.c  
+
+
+
